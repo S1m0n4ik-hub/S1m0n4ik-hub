@@ -23,23 +23,6 @@ A modern web application for managing shared finances between partners. Built wi
 
 - Relevant certifications and courses
 
-### 💼 Work Experience
-
-- Here’s a polished version of your text in English:
-
-I created an application for data exchange between spouses, which serves as an MVP product, along with a few other projects:
-
-1. Presentation on the Spouse Data Exchange App - https://docs.google.com/presentation/d/135rjajgpRLWJIaJaxrfdTS_3JGqlKCLf5u5d3miyAbA/edit?usp=sharing
-
-2. Guess the Number Game - https://replit.com/@georgesimovonya/Guess-the-number
-
-3. Design Project - https://textassist.ru/design/67ebcfac5700dc85f1956613
-
-4. Another Presentation - https://docs.google.com/presentation/d/1Zu7zcRI53rwYWH4Q2tjztPfG8hsPJw65HiwjnKqkFEA/edit?usp=sharing
-
-5. Final Presentation - https://docs.google.com/presentation/d/1xRCkTNfKdRGwr0dcvTt9xQ7C2c0RG-kq3FnSbWxOQ_U/edit?usp=sharing
-- Key responsibilities and achievements
-
 ### 🌱 I'm currently learning
 
 - Advanced Python frameworks
